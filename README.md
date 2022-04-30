@@ -20,6 +20,7 @@ To execute the project you will need a system that satisfies below dependencies.
 
 ### Few Snippets of Visualization
 
+![Graph](https://github.com/sarjil07/SBI-StockAnalysis-Using-Spark/blob/main/SBI_Stock_Analysis_Spark_Project/graph.png)
 
 
 ### Group Members
