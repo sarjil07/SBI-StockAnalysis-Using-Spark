@@ -16,7 +16,7 @@ To execute the project you will need a system that satisfies below dependencies.
 ## Projects
 
 ### SBI Stock Data Analysis
-- The code and project for SBI Stock Data Analysis can be found [here.](https://github.com/sarjil07/SBI-Stock-Analysis-Using-Spark/tree/main/Spark_SBI_Data_Analysis_Project)
+- The code and project for SBI Stock Data Analysis can be found [here.](https://github.com/sarjil07/SBI-StockAnalysis-Using-Spark/tree/main/SBI_Stock_Analysis_Spark_Project)
 
 ### Group Members
 - Sarjil Nisargkumar Patel (AU1940281)
