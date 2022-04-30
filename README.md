@@ -4,7 +4,7 @@
 Apache Spark is a fast and general-purpose cluster computing system. Designed for large-scale data processing, it run programs up to 100x faster than Hadoop MapReduce in memory, or 10x faster on disk. Spark can run on Hadoop, Mesos, standalone, or in the cloud. It can access diverse data sources including HDFS, Cassandra, HBase, and S3. Spark has an advanced DAG execution engine that supports acyclic data flow and in-memory computing. It provides high-level APIs in Java, Scala, Python and R, and an optimized engine that supports general execution graphs. You can learn more about spark at their quick start guide [here.](http://spark.apache.org/docs/latest/quick-start.html)
 
 ## About
-This repository contains the projects done using Spark based on Analysis of the stocks of SBI. We got the data from Kaggle. The folder has the code as well as data associated with that project. All the code should be executable as long as the computer meets the requirements mentioned in the dependencies section.
+This repository contains the project done using Spark based on Analysis of the stocks of SBI. We got the data from Kaggle. The folder has the code as well as data associated with that project. All the code should be executable as long as the computer meets the requirements mentioned in the dependencies section.
 
 ## Dependencies
 To execute the project you will need a system that satisfies below dependencies.
@@ -13,7 +13,7 @@ To execute the project you will need a system that satisfies below dependencies.
 - Scala
 - Databricks Notebook
 
-## Projects
+## Project
 
 ### SBI Stock Data Analysis
 - The code and project for SBI Stock Data Analysis can be found [here.](https://github.com/sarjil07/SBI-StockAnalysis-Using-Spark/tree/main/SBI_Stock_Analysis_Spark_Project)
