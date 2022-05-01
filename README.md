@@ -26,7 +26,7 @@ To execute the project you will need a system that satisfies below dependencies.
 ### Group Members
 - Sarjil Nisargkumar Patel (AU1940281)
 - Pankil Sheth (AU1940280)
-- Karan Shah (AU1940291)
+- Karan Shah (AU1940292)
 
 ## More Information 
 - More information about PySpark and programming Spark using Python can be found [here.](https://spark.apache.org/docs/0.9.1/python-programming-guide.html)
